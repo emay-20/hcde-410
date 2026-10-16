@@ -1,7 +1,7 @@
 # A1 — Working with Open Data
 
 **Dataset:** Burke-Gilman Trail counter north of NE 70th St
-**Source:** https://data.seattle.gov/Transportation/.../2z5v-ecg8  (pulled 2026-10-06)
+**Source:** https://data.seattle.gov/d/2z5v-ecg8  (pulled 2026-10-06)
 **License / terms of use:** Public Domain (Data Provided by City of Seattle)
 
 ## Questions I asked
