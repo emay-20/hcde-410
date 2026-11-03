@@ -1,1 +1,16 @@
 observation,theme
+[7:41] Pasted the given prompt into ChatGPT,prompt entry
+"[7:42] Clicked on the StatMuse source and briefly scrolled through the page/data, yet did not take time to actually check or count the totals herself",superficial verification
+[7:44] Pasted the same prompt into a new ChatGPT chat,repeated prompt entry
+"[7:45] Given the two outputs are identical, she says she trusts the response and moves to the third chat without any sort of checks",consistency builds trust / skipped verification
+[7:46] Uses the same prompt again in a new ChatGPT chat,repeated prompt entry
+[7:46] Output again is nearly identical to the first two and only raises her trust in the answer,consistency builds trust / skipped verification
+"[7:48] Switched to Google Gemini for her 4th probe. Instead of typing the prompt, used the photo feature to take a picture of the prompt from ChatGPT",repeated prompt entry
+[7:49] The difference in answers with ChatGPT gives her a little pause and says she is a little more skeptical of the answer from Gemini,differences creates skepticism
+"[7:50] She goes back to one of the ChatGPT probes to access the StatMuse source again, as the response from Gemini did not include a source",cross-model verification
+"[7:50] When looking at the data/source again, she said she is confused and doesn’t really know what to look for",difficulty interpreting data/sources
+"[7:51] She says because football is not a topic she knows much about, it's hard for her to evaluate the answer",lack of topic knowledge
+"[Post-probe] When asked if she trusted the answers, she mostly did before the Gemini probe. She also said she trusted it because “it felt something more straightforward, like it was a question that wouldn’t make sense for the AI to be spreading misinformation”.",over-trust in AI
+"[Post-probe] She said while she knows AI can be wrong, she would still blindly go with it out of laziness more than anything unfortunately",skipped verification out of laziness
+"[Post-probe] She says if she was being more careful or something that she really wanted to understand, she would probably Google it elsewhere to confirm the answer. But if she’s pressed for time, she would just trust the answer.",time-dependent verification
+[Post-probe] Says she would’ve just worded the prompt as “How many games in the 2025-2026 regular season did the Seattle Seahawks force at least one turnover”,prompt revision
